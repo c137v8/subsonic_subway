@@ -1,4 +1,4 @@
-# Meta Hacker Cup 2024 - Problem A: [Problem Title]
+# Meta Hacker Cup 2024 - Problem A: Subsonic Subway
 
 ## Problem Overview
 
